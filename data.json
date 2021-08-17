@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "firstName": "Korney",
+    "middleName": "ksapena",
+    "lastName": "Sapena",
+    "email": "ksapena0@businessweek.com",
+    "phoneNumber": "6522243888",
+    "role": "Superadmin",
+    "address": "97449 Sommers Parkway"
+  },
+  {
+    "id": 2,
+    "firstName": "Shayne",
+    "middleName": "springell",
+    "lastName": "Pringell",
+    "email": "springell1@canalblog.com",
+    "phoneNumber": "2593451897",
+    "role": "Construction Foreman",
+    "address": "4690 Ilene Street"
+  },
+  {
+    "id": 3,
+    "firstName": "Eleni",
+    "middleName": "emccallion",
+    "lastName": "McCallion",
+    "email": "emccallion2@dell.com",
+    "phoneNumber": "3474429675",
+    "role": "Estimator",
+    "address": "2 Mosinee Terrace"
+  },
+  {
+    "id": 4,
+    "firstName": "Kennett",
+    "middleName": "kgoodridge",
+    "lastName": "Goodridge",
+    "email": "kgoodridge3@taobao.com",
+    "phoneNumber": "6082112525",
+    "role": "Electrician",
+    "address": "2257 Bonner Court"
+  },
+  {
+    "id": 5,
+    "firstName": "Jess",
+    "middleName": "jmcgonigal",
+    "lastName": "McGonigal",
+    "email": "jmcgonigal4@amazonaws.com",
+    "phoneNumber": "9478195322",
+    "role": "Project Manager",
+    "address": "1725 Schmedeman Circle"
+  },
+  {
+    "id": 6,
+    "firstName": "Newton",
+    "middleName": "nclementel",
+    "lastName": "Clementel",
+    "email": "nclementel5@fda.gov",
+    "phoneNumber": "8844969819",
+    "role": "Architect",
+    "address": "14 Russell Junction"
+  },
+  {
+    "id": 7,
+    "firstName": "Abagail",
+    "middleName": "aingman",
+    "lastName": "Ingman",
+    "email": "aingman6@dropbox.com",
+    "phoneNumber": "7789976373",
+    "role": "Architect",
+    "address": "77586 Sunbrook Point"
+  },
+  {
+    "id": "8",
+    "firstName": "boby",
+    "middleName": "singh",
+    "lastName": "biht",
+    "email": "boby@gmail.com",
+    "phoneNumber": "8976543678",
+    "role": "Admin",
+    "address": "almora"
+  }
+]
